@@ -1,13 +1,4 @@
-<img width="1326" height="828" alt="image" src="https://github.com/user-attachments/assets/c5f9fe6d-b582-4ba1-b54b-bf9c564f7100" />
-
-Alright, I’m going to be blunt.
-
-What you shared is **good in content but messy in presentation**. For a GitHub project, recruiters and reviewers don’t read line-by-line — they **scan**. Your README needs **clear hierarchy, predictable structure, and zero redundancy**.
-
-Below is a **clean, GitHub-ready, professional README.md** that you can directly paste into your repo.
-It’s logically ordered, scannable, and aligned with how serious open-source / portfolio projects are documented.
-
----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/baf5496d-39a7-426e-94dd-f28c6b331c06" />
 
 # VoteSecure – Election Creation Wizard
 
@@ -323,6 +314,7 @@ POST /api/results/calculate
 **Status:** Production Ready ✅ 
 
 ---
+
 
 
 
