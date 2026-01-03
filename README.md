@@ -1,3 +1,5 @@
+<img width="1326" height="828" alt="image" src="https://github.com/user-attachments/assets/c5f9fe6d-b582-4ba1-b54b-bf9c564f7100" />
+
 Alright, I’m going to be blunt.
 
 What you shared is **good in content but messy in presentation**. For a GitHub project, recruiters and reviewers don’t read line-by-line — they **scan**. Your README needs **clear hierarchy, predictable structure, and zero redundancy**.
@@ -322,11 +324,5 @@ POST /api/results/calculate
 
 ---
 
-If you want, next I can:
 
-* Cut this down for **recruiter-friendly README**
-* Create a **GitHub banner + badges**
-* Write a **project description for LinkedIn / resume**
-* Or audit it like a reviewer and tell you what still looks weak
 
-Your move.
