@@ -1,3 +1,6 @@
+<img width="1326" height="828" alt="image" src="https://github.com/user-attachments/assets/3cc1c354-4f4b-401b-87c5-22f51b6f403f" />
+
+
 # VoteSecure - Election Creation Wizard
 
 ## 🎯 Overview
@@ -352,5 +355,6 @@ This wizard demonstrates:
 **Version:** 1.0.0  
 **Last Updated:** December 2024  
 **Status:** Production Ready ✅
-#   v o t i n g - m a n a g e m e n t - s y s t e m - - U I U X  
+#   v o t i n g - m a n a g e m e n t - s y s t e m - - U I U X 
+ 
  
